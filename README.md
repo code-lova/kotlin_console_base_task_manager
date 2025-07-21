@@ -11,7 +11,7 @@ The application allows users to:
 
 These actions are handled through a simple command-line menu interface.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=6V8iIZxsyZ8)
 
 ---
 
